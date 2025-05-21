@@ -1,0 +1,7 @@
+{
+    "prompt": "The video is a panning view of Shibuya crossing road. The weather is hot shiny day with no single cloud in sky.",
+    "input_video_path" : "kassets/shibuya.mov",
+    "vis": {
+        "control_weight": 1.0
+    }
+}
